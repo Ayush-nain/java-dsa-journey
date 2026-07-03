@@ -1,9 +1,16 @@
-# Common Mistakes
+# Common Mistakes & Learnings
 
-## HashMap
+---
 
-- Remember containsKey() before get() when needed.
+# HashMap
 
-## Binary Search
+## Mistake
 
-- Check boundary conditions carefully.
+Forgot to check containsKey() before updating frequency.
+
+## Learning
+
+Use:
+
+```java
+map.put(ch, map.getOrDefault(ch,0)+1);
