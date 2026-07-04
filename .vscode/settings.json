@@ -1,0 +1,11 @@
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#FFA500",
+                "fontStyle": "italic"
+            }
+        }
+    ]
+}
