@@ -8,7 +8,7 @@
 | Medium Solved  | 0     |
 | Hard Solved    | 0     |
 | Total Solved   | 0     |
-| Current Streak | 1 Day |
+| Current Streak | 2 Day |
 
 ---
 
@@ -23,6 +23,7 @@
 | Trees       | ❌     | 0         |
 | Graphs      | ❌     | 0         |
 | DP          | ❌     | 0         |
+| ArrayList   | ❌     | 0         |
 
 Legend:
 
@@ -71,3 +72,22 @@ Legend:
 - ArrayList grows dynamically unlike arrays.
 - Elements can be accessed using their index with get().
 - add() inserts elements at the end of the ArrayList.
+
+## 05 July 2026
+
+### Learned
+
+- ArrayList remove()
+- ArrayList set()
+- ArrayList iteration and traverse
+- ArrayList sort with Collection.cort and also list.sort
+
+### Solved
+
+- None
+
+### Key Learning
+
+- ArrayList sorted when with list.sort so we need to use comparator
+- We can remove elemen by using get inside it
+- We can add elements between a array list by passing index and value inside add func.
