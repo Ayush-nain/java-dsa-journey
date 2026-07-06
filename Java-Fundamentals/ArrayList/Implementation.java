@@ -39,5 +39,24 @@ public class Implementation {
             System.out.print(list.get(i) + " ");
         }
 
+        // Types of Declaration in ArrayList
+
+        // 1
+        ArrayList<Integer> list2 = new ArrayList<>();
+        list2.add(9);
+        list2.add(7);
+        list2.add(18);
+
+        System.out.println(list2);
+
+        // 2
+        List<String> list3 = List.of("Ayush", "Amandeep", "Dev");
+        System.out.println(list3);
+        // 3
+        Double arr[] = { 1.2, 3.57, 0.9 };
+        List<Double> list4 = Arrays.asList(arr);
+        list4.set(1, 2.33);
+
+        System.out.println(list4);
     }
 }

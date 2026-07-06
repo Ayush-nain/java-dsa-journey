@@ -91,3 +91,21 @@ Legend:
 - ArrayList sorted when with list.sort so we need to use comparator
 - We can remove elemen by using get inside it
 - We can add elements between a array list by passing index and value inside add func.
+
+## 06 July 2026
+
+### Learned
+
+- ArrayList different types of declaration
+- List.of
+- Arrays.asList
+
+### Solved
+
+- None
+
+### Key Learning
+
+- ArrayList created using simple arraylist are mutable
+- ArrayList created using List.of are immutable
+- ArrayList created using Arrays.asList are of fixed size but values can be modified
