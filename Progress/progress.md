@@ -4,11 +4,11 @@
 
 | Metric         | Count |
 | -------------- | ----- |
-| Easy Solved    | 0     |
+| Easy Solved    | 1     |
 | Medium Solved  | 0     |
 | Hard Solved    | 0     |
 | Total Solved   | 0     |
-| Current Streak | 2 Day |
+| Current Streak | 4 Day |
 
 ---
 
@@ -23,7 +23,7 @@
 | Trees       | ❌     | 0         |
 | Graphs      | ❌     | 0         |
 | DP          | ❌     | 0         |
-| ArrayList   | ❌     | 0         |
+| ArrayList   | ✅     | 1         |
 
 Legend:
 
@@ -109,3 +109,18 @@ Legend:
 - ArrayList created using simple arraylist are mutable
 - ArrayList created using List.of are immutable
 - ArrayList created using Arrays.asList are of fixed size but values can be modified
+
+## 07 July 2026
+
+### Learned
+
+- ArrayList reverse using two pointers
+
+### Solved
+
+- reverse of arraylist
+
+### Key Learning
+
+- ArrayList can be reversed using two pointers
+- We can also used Collection.reverse
