@@ -124,3 +124,18 @@ Legend:
 
 - ArrayList can be reversed using two pointers
 - We can also used Collection.reverse
+
+## 08 July 2026
+
+### Learned
+
+- ArrayList contains and indexOf function
+
+### Solved
+
+- None
+
+### Key Learning
+
+- ArrayList elements can be checked using contains fuction
+- The element index can be accessed by indexOf function
