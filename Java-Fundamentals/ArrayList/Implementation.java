@@ -58,5 +58,11 @@ public class Implementation {
         list4.set(1, 2.33);
 
         System.out.println(list4);
+
+        // contains,indexOf
+
+        System.out.println(list2.contains(9));
+        System.out.println(list2.contains(43));
+        System.out.println(list2.indexOf(9));
     }
 }
