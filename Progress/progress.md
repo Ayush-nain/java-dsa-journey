@@ -4,11 +4,11 @@
 
 | Metric         | Count |
 | -------------- | ----- |
-| Easy Solved    | 1     |
+| Easy Solved    | 2     |
 | Medium Solved  | 0     |
 | Hard Solved    | 0     |
 | Total Solved   | 0     |
-| Current Streak | 4 Day |
+| Current Streak | 6 Day |
 
 ---
 
@@ -23,7 +23,7 @@
 | Trees       | ❌     | 0         |
 | Graphs      | ❌     | 0         |
 | DP          | ❌     | 0         |
-| ArrayList   | ✅     | 1         |
+| ArrayList   | ✅     | 2         |
 
 Legend:
 
@@ -139,3 +139,17 @@ Legend:
 
 - ArrayList elements can be checked using contains fuction
 - The element index can be accessed by indexOf function
+
+## 09 July 2026
+
+### Learned
+
+- How to Find Maximum in an ArrayList
+
+### Solved
+
+- Maximum in an ArrayList
+
+### Key Learning
+
+- How to find Maximum in an Arraylist
