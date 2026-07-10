@@ -4,11 +4,11 @@
 
 | Metric         | Count |
 | -------------- | ----- |
-| Easy Solved    | 2     |
+| Easy Solved    | 3     |
 | Medium Solved  | 0     |
 | Hard Solved    | 0     |
 | Total Solved   | 0     |
-| Current Streak | 6 Day |
+| Current Streak | 7 Day |
 
 ---
 
@@ -153,3 +153,25 @@ Legend:
 ### Key Learning
 
 - How to find Maximum in an Arraylist
+
+## 10 July 2026
+
+### Learned
+
+- Collection fucntions like :
+- Collections.sort()
+- Collections.reverse()
+- Collections.shuffle()
+- Collections.max() etc...
+
+### Solved
+
+- Arraylist Sort
+- Reverse a ArrayList
+- Shuffle an ArrayList(random order)
+- Maximum elemnet in an ArrayList
+- Minimum element in an Array List
+
+### Key Learning
+
+- How to use Collections fuctions like sort,reverse etc..
