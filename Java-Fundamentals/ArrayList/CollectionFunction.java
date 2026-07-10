@@ -23,6 +23,20 @@ public class CollectionFunction {
         System.out.println("Sorted Array : " + list);
 
         // reverse
+        Collections.reverse(list);
+        System.out.println("Reversed list" + list);
+
+        // shuffle
+        Collections.shuffle(list);
+        System.out.println("Shuffle list : " + list);
+
+        // Maximum
+        int b = Collections.max(list);
+        System.out.println("Maximum Element : " + b);
+
+        // Minimum
+        int c = Collections.min(list);
+        System.out.println("Minimum : " + c);
 
         in.close();
     }
