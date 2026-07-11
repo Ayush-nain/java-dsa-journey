@@ -64,5 +64,14 @@ public class Implementation {
         System.out.println(list2.contains(9));
         System.out.println(list2.contains(43));
         System.out.println(list2.indexOf(9));
+
+        // equals,trimsize
+        list2.trimToSize();
+        list2.add(4);
+        System.out.println(list2.size());
+
+        list2.add(4);
+        System.out.println("Equals : " + (list2.get(3).equals(list2.get(4))));
+        System.out.println("== : " + (list2.get(3) == (list2.get(4))));
     }
 }
