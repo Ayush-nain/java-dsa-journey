@@ -175,3 +175,24 @@ Legend:
 ### Key Learning
 
 - How to use Collections fuctions like sort,reverse etc..
+
+## 11 July 2026
+
+### Learned
+
+- Remove Duplicate Values from ArrayList
+- Arraylist functions like equals and trimToSize
+- Diffference between "==" and "equals()"
+- == it compares instances(means the address)
+- equals() compares the values
+
+### Solved
+
+- Remove duplicates from ArrayList
+- Comapre two equal vales using "==" and "equals()"
+
+### Key Learning
+
+- remove duplicate using equals() func
+- == used with objects not with primtive data
+- equals can be used with both as compares values not address
