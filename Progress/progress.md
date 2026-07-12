@@ -196,3 +196,18 @@ Legend:
 - remove duplicate using equals() func
 - == used with objects not with primtive data
 - equals can be used with both as compares values not address
+
+## 12 July 2026
+
+### Learned
+
+- How to merge two lists in sorted order
+
+### Solved
+
+- Merge two unsorted lists in sorted order
+
+### Key Learning
+
+- how to merge two lists in sorted order
+- list size is expandable as inside capacity is increased by 1.5 times
