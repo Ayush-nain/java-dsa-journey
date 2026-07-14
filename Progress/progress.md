@@ -8,7 +8,7 @@
 | Medium Solved  | 0     |
 | Hard Solved    | 0     |
 | Total Solved   | 0     |
-| Current Streak | 7 Day |
+| Current Streak | 8 Day |
 
 ---
 
@@ -211,3 +211,18 @@ Legend:
 
 - how to merge two lists in sorted order
 - list size is expandable as inside capacity is increased by 1.5 times
+
+## 14 July 2026
+
+### Learned
+
+- Started with arrays
+
+### Solved
+
+- Arrays function
+
+### Key Learning
+
+- how to find length of an array
+- how to find maximum of an array without loop using inbuilt fuc
